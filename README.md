@@ -25,6 +25,15 @@ Please use the <code>download.sh</code> script inside <code>data/</code> for con
 
 ---
 
+### Evaluation
+(02.09.2019) Our final checkpoint with evaluation code has been released.
+Numbers can be reproduced by downloading the features and labels and running with `video_name` as one of the following videos: `bbt_s01e01..06` or `buffy_s05e01..06`
+```
+python evaluate.py <video_name>
+```
+
+---
+
 ### Code
 coming soon
 
