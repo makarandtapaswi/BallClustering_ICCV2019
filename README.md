@@ -3,7 +3,7 @@
 <strong>Video Face Clustering with Unknown Number of Clusters</strong>  
 M. Tapaswi, M. T. Law, and S. Fidler  
 International Conference on Computer Vision (ICCV), October 2019.  
-[arXiv - coming soon]()
+[arXiv](https://arxiv.org/abs/1908.03381)
 
 + Realistic setting for clustering face tracks in videos
 + Number of clusters is not known
